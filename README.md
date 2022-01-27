@@ -1,1 +1,2 @@
-# Clase_36
+# MovimientoSincronoDelaPelota
+Movimiento de la pelota de forma síncrona
